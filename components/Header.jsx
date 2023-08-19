@@ -5,7 +5,7 @@ import Main_Menu from "./headers/main-menu";
 
 const Header = () => {
     return ( 
-        <div className="flex items-center justify-between p-24">
+        <header className="emo-header flex items-center justify-between">
             <div className="emo-logo">
             <Image
                 src="/images/logo.png"
@@ -14,10 +14,13 @@ const Header = () => {
                 alt="Iphonery online shop"
                 />
             </div>
-            <div className="emo-login">
+            <div className="emo-menu">
                 <Main_Menu />
             </div>
-        </div>
+            <div className="emo-login">
+                <div>Login / Register</div>
+            </div>
+        </header>
      );
 }
  
