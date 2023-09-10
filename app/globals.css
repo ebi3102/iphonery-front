@@ -13,3 +13,4 @@ First-color: #333333
 */
 
 .emo-header{background-color: #333333; height: 100px; color:#fff; padding: 10px;}
+.emo-menu li:hover{background-color: #fff; color: #333;}
