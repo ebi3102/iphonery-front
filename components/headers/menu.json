@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Home",
+        "type": "page",
+        "id": 27,
+        "guide": "/"
+    },
+    {
+        "name": "Shop",
+        "type": "page",
+        "id": 6,
+        "guide": "/shop"
+    },
+    {
+        "name": "Blog",
+        "type": "page",
+        "id": 28,
+        "guide": "/"
+    },
+    {
+        "name": "My Account",
+        "type": "page",
+        "id": 9,
+        "guide": "/"
+    }
+]
