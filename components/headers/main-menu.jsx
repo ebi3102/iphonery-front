@@ -1,3 +1,6 @@
+import Link from 'next/link'
+
+
 const Main_Menu = () => {
     return ( 
         <div className="menu-container">
